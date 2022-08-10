@@ -1,0 +1,1 @@
+export { CoTermsUi } from './src/CoTermsUi.js';
